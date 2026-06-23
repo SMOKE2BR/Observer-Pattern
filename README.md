@@ -4,6 +4,17 @@ Este projeto demonstra o uso do **padrão de projeto Observer** em Java, aplicad
 
 ## 📌 Estrutura
 
+
+  ***DIAGRAMA DE CLASSES***
+
+  <img width="827" height="602" alt="Observer_diagrama_classes" src="https://github.com/user-attachments/assets/08298e0e-c6cb-43a2-bcf8-c46923f61ca0" />
+
+  ***DIAGRAMA DE ESTADO***
+
+  <img width="618" height="574" alt="Observer_diagrama_estado" src="https://github.com/user-attachments/assets/16dee986-e1f6-4339-8c27-de92486895f6" />
+
+
+
 - **Classe principal**
   - `Conta` → representa a conta bancária, herda de `Observable` e dispara notificações quando o estado muda.
 
